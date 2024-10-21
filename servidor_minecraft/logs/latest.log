@@ -2417,3 +2417,8 @@
 [02:24:45] [User Authenticator #18/INFO]: UUID of player u53dvr123 is ecec4120-461e-31aa-b9d4-2d26190f7e96
 [02:24:45] [Server thread/INFO]: u53dvr123 joined the game
 [02:24:45] [Server thread/INFO]: u53dvr123[/[0:0:0:0:0:0:0:1%0]:53816] logged in with entity id 124426 at ([world]-1406.5, 101.0, 972.5)
+[02:25:15] [User Authenticator #18/INFO]: UUID of player Jobnael_13 is b8e50712-cb62-357c-8682-85cdc7c42bde
+[02:25:15] [Server thread/INFO]: Jobnael_13 lost connection: You logged in from another location
+[02:25:15] [Server thread/INFO]: Jobnael_13 left the game
+[02:25:15] [Server thread/INFO]: Jobnael_13 joined the game
+[02:25:15] [Server thread/INFO]: Jobnael_13[/[0:0:0:0:0:0:0:1%0]:41210] logged in with entity id 124653 at ([world]-1335.6284879626517, 110.0, 837.5256372948172)
