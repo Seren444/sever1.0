@@ -10,8 +10,11 @@ GuardianDelMar:
     MovementSpeed: 0.3
     Invisible: false
     Glowing: true
+    FollowRange: 3
+    PreventSunburn: true
   Drops:
   - exp 20-40 1
+  - trident 1 0.5
 CrepperElectrico:
   Type: Creeper
   
