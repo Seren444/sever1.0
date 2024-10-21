@@ -1,11 +1,17 @@
 
-ZombieMutante:
-  Type: Zombie
-  Health: 20
-  Damage: 6
+GuardianDelMar:
+  Type: Drowned
+  Health: 15
+  Damage: 2
   Equipment:
   - IRON_HELMET HEAD
+  - TRIDENT HAND
   Options:
-    MovementSpeed: 0.5
+    MovementSpeed: 0.3
+    Invisible: false
+    Glowing: true
   Drops:
   - exp 20-40 1
+CrepperElectrico:
+  Type: Creeper
+  

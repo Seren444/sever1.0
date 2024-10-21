@@ -1,6 +1,6 @@
 
 ZombieMutante:
   Action: REPLACE
-  Type: ZombieMutante
+  Type: GuardianDelMar
   Chance: 0.1
   Priority: 10  

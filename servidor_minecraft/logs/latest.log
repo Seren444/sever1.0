@@ -398,3 +398,1299 @@
 [01:32:03] [Server thread/INFO]: Jobnael_13 has made the advancement [Stone Age]
 [01:32:03] [Server thread/INFO]: Jobnael_13 has made the advancement [Isn't It Iron Pick]
 [01:32:18] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12 2
+[01:32:34] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12
+[01:32:37] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12
+[01:32:45] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124 SoySeren
+[01:32:45] [Server thread/INFO]: [SoySeren: Teleported Nosepepardo124 to SoySeren]
+[01:32:56] [Server thread/INFO]: SoySeren issued server command: /tp Jobnael_13
+[01:32:56] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Jobnael_13]
+[01:33:03] [Server thread/INFO]: nicolas_12 was slain by Zombie
+[01:33:12] [Server thread/INFO]: Nosepepardo124 issued server command: /mmmenu
+[01:33:16] [Server thread/INFO]: Nosepepardo124 issued server command: /mmmenu
+[01:33:22] [Server thread/INFO]: SoySeren issued server command: /gamemode spectator
+[01:33:22] [Server thread/INFO]: [SoySeren: Set own game mode to Spectator Mode]
+[01:33:24] [Server thread/INFO]: Nosepepardo124 issued server command: /mm mobs
+[01:33:24] [Server thread/INFO]: Jobnael_13 has made the advancement [Monster Hunter]
+[01:33:25] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:33:25] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:33:35] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m kill ZombieMutante
+[01:33:41] [Server thread/INFO]: nicolas_12 was slain by Jobnael_13
+[01:33:44] [Server thread/INFO]: Villager EntityVillager['Villager'/60311, uuid='ad98b0cc-ca97-4217-a315-f7a25079506b', l='ServerLevel[world]', x=-1354.82, y=104.00, z=856.15, cpos=[-85, 53], tl=162142, v=true] died, message: 'Villager was slain by Zombie'
+[01:33:57] [Server thread/INFO]: Jobnael_13 was slain by Zombie
+[01:33:57] [Server thread/INFO]: Nosepepardo124 has made the advancement [Stone Age]
+[01:34:16] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m kill ZombieMutante
+[01:34:36] [Server thread/INFO]: Jobnael_13 has made the advancement [We Need to Go Deeper]
+[01:34:45] [Server thread/INFO]: u53dvr123 fell from a high place
+[01:34:52] [Server thread/INFO]: Jobnael_13 was doomed to fall by nicolas_12
+[01:34:52] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124 SoySeren
+[01:34:52] [Server thread/INFO]: [SoySeren: Teleported Nosepepardo124 to SoySeren]
+[01:35:29] [Server thread/INFO]: nicolas_12 was slain by Jobnael_13
+[01:35:30] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:35:30] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:35:30] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:35:30] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:35:30] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:35:30] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:35:30] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:35:30] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:35:30] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:35:30] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:35:30] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:35:30] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:35:30] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:35:30] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:35:30] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:35:41] [Server thread/INFO]: nicolas_12 was slain by Jobnael_13
+[01:36:08] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:36:08] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:36:08] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:36:08] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:36:08] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:36:08] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:36:08] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:36:08] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:36:08] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:36:08] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:36:08] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:36:08] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:36:08] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:36:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:36:08] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:36:18] [Server thread/INFO]: nicolas_12 was slain by Jobnael_13
+[01:36:46] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:36:46] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:36:46] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:36:46] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:36:47] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:36:47] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:36:47] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:36:47] [Server thread/WARN]: [MythicMobs] Could not load MythicMob ZombieMutante! Invalid type specified.
+[01:36:47] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:36:47] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:36:47] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:36:47] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:36:47] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:36:47] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:36:47] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:36:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:36:47] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:47] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:47] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:47] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:48] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:48] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:48] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:48] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:48] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:48] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:49] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:49] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:49] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:49] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:49] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:49] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:50] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:50] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:50] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:50] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:50] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:50] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:50] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:50] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:50] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:50] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:50] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:51] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:51] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:51] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:51] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:51] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:51] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:53] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:53] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:53] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:53] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:53] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:53] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:53] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:53] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:53] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:53] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:56] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m kill ZombieMutante
+[01:36:56] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:56] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:56] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:56] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:56] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:56] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:56] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:56] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:56] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:56] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:56] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:57] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:57] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:57] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:57] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:57] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:57] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:57] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:58] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:58] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:58] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:58] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:58] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:58] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:58] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:58] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:58] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:58] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:58] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:58] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:59] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:59] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:36:59] [Server thread/ERROR]: [MythicMobs] [SCHEDULER] Exception thrown whilst executing task
+[01:36:59] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "io.lumine.mythic.core.drops.DropTable.generate(io.lumine.mythic.api.drops.DropMetadata)" because "this.equipmentTable" is null
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.core.mobs.MobType.lambda$applyMobOptions$6(MobType.java:1176)
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.Delegates$RunnableToSupplier.get(Delegates.java:121)
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.promise.LuminePromise$SupplyRunnable.run(LuminePromise.java:654)
+[01:36:59] [Server thread/WARN]: 	at MythicMobs-5.7.2.jar//io.lumine.mythic.bukkit.utils.tasks.LumineExecutors$SchedulerWrappedRunnable.run(LumineExecutors.java:70)
+[01:36:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101)
+[01:36:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:480)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1479)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:446)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1393)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1170)
+[01:36:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[01:36:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:37:00] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:37:00] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:37:00] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:37:00] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:37:00] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:37:00] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:37:00] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:37:00] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:37:00] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:37:00] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:00] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:00] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:00] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:37:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:37:00] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:37:00] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12
+[01:37:03] [Server thread/INFO]: Jobnael_13 fell from a high place
+[01:37:10] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:37:10] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:37:10] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:37:10] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:37:11] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:37:11] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:37:11] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:37:11] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:37:11] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:37:11] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:37:11] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:11] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:11] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:11] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:37:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:37:11] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:37:26] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111304, uuid='98f4589e-fb6c-4ef6-b9d3-fee35f15ad88', l='ServerLevel[world]', x=-1148.50, y=109.00, z=802.50, cpos=[-72, 50], tl=592, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:26] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111311, uuid='3d2ffdf4-ca2a-4979-9564-5adcab39512c', l='ServerLevel[world]', x=-1381.50, y=54.00, z=1036.50, cpos=[-87, 64], tl=591, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:26] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111318, uuid='5c8eddb8-1a2d-4498-8b6b-037b824e9e91', l='ServerLevel[world]', x=-1092.50, y=62.00, z=929.50, cpos=[-69, 58], tl=591, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:26] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111321, uuid='c24028b5-5e01-4529-809d-5d0020704eee', l='ServerLevel[world]', x=-1385.50, y=108.00, z=812.50, cpos=[-87, 50], tl=590, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:26] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111331, uuid='f768df0c-5737-4a3f-83c2-3ab3ef4871b8', l='ServerLevel[world]', x=-1316.50, y=51.00, z=802.50, cpos=[-83, 50], tl=588, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:27] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111342, uuid='c17d4ecf-25d4-4acf-b86c-603c54fa2d30', l='ServerLevel[world]', x=-1109.50, y=22.00, z=815.50, cpos=[-70, 50], tl=597, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:27] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111352, uuid='f142e5ef-03d7-4338-a3a1-7487a31d777f', l='ServerLevel[world]', x=-1376.50, y=75.00, z=770.50, cpos=[-87, 48], tl=582, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:27] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111355, uuid='e15ac184-8b3a-4ee0-89de-a0904eb621ae', l='ServerLevel[world]', x=-1487.50, y=72.00, z=884.50, cpos=[-93, 55], tl=581, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:28] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111357, uuid='c4b23327-c115-4af3-baef-9e4ca6a077c3', l='ServerLevel[world]', x=-1418.50, y=19.00, z=783.50, cpos=[-89, 48], tl=598, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:28] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111362, uuid='a7f3248d-3d3e-423c-b778-36f626f7231b', l='ServerLevel[world]', x=-1387.50, y=18.00, z=776.50, cpos=[-87, 48], tl=595, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:28] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111366, uuid='09216a74-4098-44b5-8a5b-1668d533f698', l='ServerLevel[world]', x=-1386.50, y=18.00, z=774.50, cpos=[-87, 48], tl=595, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:28] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111373, uuid='c2aced66-e110-4918-b3c7-21d8c69a406a', l='ServerLevel[world]', x=-1133.50, y=1.00, z=887.50, cpos=[-71, 55], tl=587, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:28] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111377, uuid='8bbc11c6-85c5-4c12-b2e3-79d11b6e189a', l='ServerLevel[world]', x=-1443.50, y=64.00, z=755.50, cpos=[-91, 47], tl=584, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:28] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111380, uuid='aeafd5c3-f2ba-4e84-ae04-fa6cfb0d8235', l='ServerLevel[world]', x=-1496.50, y=78.00, z=841.50, cpos=[-94, 52], tl=583, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:37:32] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:37:32] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:37:32] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:37:32] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:37:32] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:37:32] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:37:32] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:37:32] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:37:32] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:37:32] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:32] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:32] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:37:32] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:37:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:37:32] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:38:02] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:38:02] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:38:02] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:38:02] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:38:02] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:38:02] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:38:02] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:38:02] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:38:02] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:38:02] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:38:02] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:38:02] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:38:02] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:38:02] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:38:02] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:38:03] [Server thread/INFO]: nicolas_12 was slain by Iron Golem
+[01:38:22] [Server thread/INFO]: nicolas_12 was slain by Iron Golem
+[01:38:29] [Server thread/INFO]: Jobnael_13 has made the advancement [Getting an Upgrade]
+[01:38:32] [Server thread/INFO]: nicolas_12 was blown up by Creeper
+[01:38:48] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:38:48] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:38:48] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:38:48] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:38:48] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:38:48] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:38:48] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:38:48] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:38:48] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:38:48] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:38:48] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:38:48] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:38:48] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:38:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:38:48] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:38:57] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
+[01:39:05] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:39:05] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:39:05] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:39:05] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:39:06] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:39:06] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:39:06] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:39:06] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:39:06] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:39:06] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:39:06] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:39:06] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:39:06] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:39:06] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:39:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:39:06] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:39:14] [User Authenticator #16/INFO]: UUID of player Yahir2024 is f006d059-dc90-3ff9-8266-de5254f37aa4
+[01:39:14] [Server thread/INFO]: Yahir2024 joined the game
+[01:39:14] [Server thread/INFO]: Yahir2024[/[0:0:0:0:0:0:0:1%0]:45710] logged in with entity id 112211 at ([world]-1372.5790830726673, 99.0, 860.2250890132465)
+[01:39:51] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m give Nosepepardo124 GuardianDelMar 100
+[01:40:06] [Server thread/INFO]: Nosepepardo124 issued server command: /mm egg give Nosepepardo124 GuardianDelMar
+[01:40:12] [Server thread/INFO]: u53dvr123 fell from a high place
+[01:40:21] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111349, uuid='cc8aded6-aa3e-4e13-be69-cd4a01743db8', l='ServerLevel[world]', x=-1127.50, y=110.00, z=1028.50, cpos=[-71, 64], tl=597, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:40:40] [Server thread/INFO]: u53dvr123 was doomed to fall by Zombie
+[01:40:40] [Server thread/INFO]: Nosepepardo124 has made the advancement [Monster Hunter]
+[01:40:41] [Server thread/INFO]: Jobnael_13 was impaled by Drowned
+[01:40:51] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124 SoySeren
+[01:40:51] [Server thread/INFO]: [SoySeren: Teleported Nosepepardo124 to SoySeren]
+[01:41:03] [Server thread/INFO]: u53dvr123 was impaled by Drowned
+[01:41:06] [Server thread/INFO]: Jobnael_13 was impaled by Drowned
+[01:41:09] [Server thread/INFO]: SoySeren issued server command: /tp u53dvr123
+[01:41:09] [Server thread/INFO]: [SoySeren: Teleported SoySeren to u53dvr123]
+[01:41:11] [Server thread/INFO]: Villager EntityVillager['Farmer'/58783, uuid='17591700-3a24-4d3d-99da-7f582ba258e5', l='ServerLevel[world]', x=-1303.19, y=104.05, z=852.59, cpos=[-82, 53], tl=176039, v=true] died, message: 'Farmer suffocated in a wall'
+[01:41:12] [Server thread/INFO]: SoySeren issued server command: /tp Jobnael_13
+[01:41:12] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Jobnael_13]
+[01:41:28] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:41:28] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:41:28] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:41:28] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:41:28] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:41:28] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:41:28] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:41:28] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:41:28] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:41:28] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:41:28] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:41:28] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:41:28] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:41:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:41:28] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:41:32] [Server thread/INFO]: Jobnael_13 was impaled by Drowned
+[01:41:35] [Server thread/INFO]: SoySeren issued server command: /mm mobs killall
+[01:41:51] [Server thread/INFO]: u53dvr123 was slain by Zombie
+[01:42:08] [Server thread/INFO]: nicolas_12 was slain by Jobnael_13
+[01:42:10] [Server thread/INFO]: Jobnael_13 has made the advancement [Acquire Hardware]
