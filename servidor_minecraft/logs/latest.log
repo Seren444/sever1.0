@@ -1978,3 +1978,264 @@
 [01:52:55] [Server thread/INFO]: SoySeren issued server command: /mm mobs killall
 [01:53:05] [Server thread/INFO]: nicolas_12 was slain by Jobnael_13
 [01:53:27] [Server thread/INFO]: Jobnael_13 was slain by Iron Golem
+[01:53:53] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:53:53] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:53:54] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:53:54] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:53:59] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:53:59] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:54:02] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:54:02] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:54:09] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:54:09] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:54:10] [Server thread/INFO]: Jobnael_13 was slain by u53dvr123
+[01:54:13] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:54:13] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:54:27] [Server thread/INFO]: u53dvr123 was slain by Iron Golem
+[01:54:31] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:54:31] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:54:31] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:54:31] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:54:31] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:54:31] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:54:31] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:54:31] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:54:31] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:54:31] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:54:31] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:54:31] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:54:31] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mobs.
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:54:31] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:54:31] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:54:38] [Server thread/INFO]: Jobnael_13 was slain by Iron Golem
+[01:55:08] [Server thread/INFO]: u53dvr123 was slain by Yahir2024
+[01:55:34] [Server thread/INFO]: Nosepepardo124 issued server command: /mm egg give Nosepepardo124 GuardianDelMar
+[01:55:37] [Server thread/WARN]: Jobnael_13 moved wrongly!
+[01:55:42] [Server thread/INFO]: Jobnael_13 was slain by u53dvr123
+[01:55:46] [Server thread/INFO]: Nosepepardo124 issued server command: /mm egg give Nosepepardo124 GuardianDelMar
+[01:55:58] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:55:58] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:55:58] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:55:58] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:55:58] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:55:58] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:55:58] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:55:58] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:55:58] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:55:58] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:55:58] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:55:58] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:55:58] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mobs.
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:55:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:55:58] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:56:16] [Server thread/INFO]: Nosepepardo124 issued server command: /mm reload
+[01:56:16] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:56:16] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:56:16] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:56:16] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:56:16] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:56:16] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:56:16] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:56:16] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:56:16] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:56:16] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:56:16] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:56:16] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mobs.
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:56:16] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:56:16] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:56:18] [Server thread/INFO]: SoySeren issued server command: /mm egg give SoySeren CrepperElectrico 64
+[01:56:26] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
+[01:56:30] [Server thread/INFO]: SoySeren issued server command: /mm egg give SoySeren GuardianDelMar 64
+[01:57:29] [Server thread/INFO]: u53dvr123 was slain by Jobnael_13
+[01:57:36] [Server thread/INFO]: Jobnael_13 was shot by Skeleton
+[01:57:48] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:57:48] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:57:54] [Server thread/INFO]: SoySeren was blown up by Creeper
+[01:57:58] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124
+[01:57:58] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Nosepepardo124]
+[01:57:59] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode creative
+[01:57:59] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Creative Mode]
+[01:58:01] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:58:01] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:58:03] [Server thread/INFO]: u53dvr123 lost connection: Timed out
+[01:58:03] [Server thread/INFO]: u53dvr123 left the game
+[01:58:05] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode survival
+[01:58:05] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Survival Mode]
+[01:58:12] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode creative
+[01:58:12] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Creative Mode]
+[01:58:46] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:58:46] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:58:50] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:58:50] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:58:54] [Server thread/INFO]: Jobnael_13 was blown up by Creeper
+[01:59:00] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
+[01:59:08] [Server thread/INFO]: Nosepepardo124 issued server command: /mm reload
+[01:59:08] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:59:08] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:59:08] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:59:08] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:59:08] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:59:08] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:59:08] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:59:08] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:59:08] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:59:08] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:59:08] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:59:08] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mobs.
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:59:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:59:08] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:59:12] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
+[01:59:20] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:59:20] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:59:26] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:59:26] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:59:26] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:59:26] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:59:26] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:59:26] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:59:26] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:59:26] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:59:26] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:59:26] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:59:26] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:59:26] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:59:26] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mobs.
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:59:26] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:59:26] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:59:29] [Server thread/INFO]: SoySeren issued server command: /mm mobs killall
+[01:59:35] [Server thread/INFO]: SoySeren was slain by Drowned
+[01:59:35] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:59:35] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:59:40] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124
+[01:59:40] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Nosepepardo124]
+[02:00:00] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
+[02:00:00] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[02:00:00] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[02:00:00] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[02:00:00] [Server thread/INFO]: [MythicMobs] Loading Items...
+[02:00:00] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[02:00:00] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[02:00:00] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[02:00:00] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[02:00:00] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[02:00:00] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[02:00:00] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[02:00:00] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[02:00:00] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mobs.
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[02:00:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[02:00:00] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[02:00:02] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[02:00:02] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[02:00:03] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode survival
+[02:00:03] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Survival Mode]
+[02:00:04] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[02:00:04] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[02:00:26] [Server thread/INFO]: Jobnael_13 has made the advancement [Sweet Dreams]
+[02:00:57] [Server thread/INFO]: SoySeren lost connection: Timed out
+[02:00:57] [Server thread/INFO]: SoySeren left the game
+[02:01:05] [Server thread/INFO]: Jobnael_13 has made the advancement [What a Deal!]
+[02:02:38] [Async Chat Thread - #77/INFO]: [Not Secure] <Nosepepardo124> el admin se fue a dormir XDDD
+[02:02:50] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode creative
+[02:02:50] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Creative Mode]
+[02:02:54] [Async Chat Thread - #77/INFO]: [Not Secure] <Yahir2024> quien eres
+[02:03:24] [Async Chat Thread - #77/INFO]: [Not Secure] <nicolas_12> duerman
+[02:03:43] [Async Chat Thread - #77/INFO]: [Not Secure] <nicolas_12> duerman mrd
+[02:03:48] [Async Chat Thread - #77/INFO]: [Not Secure] <nicolas_12> oy
+[02:03:59] [Server thread/INFO]: Nosepepardo124 has made the advancement [Sweet Dreams]
+[02:03:59] [Async Chat Thread - #77/INFO]: [Not Secure] <nicolas_12> duerme

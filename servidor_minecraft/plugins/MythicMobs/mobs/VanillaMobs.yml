@@ -2,10 +2,10 @@
 GuardianDelMar:
   Type: Drowned
   Health: 15
-  Damage: 2
+  Damage: 0.5
   Equipment:
   - IRON_HELMET HEAD
-  - TRIDENT HAND
+  - NETHERITE_SWORD HAND
   Options:
     MovementSpeed: 0.3
     Invisible: false
@@ -14,7 +14,16 @@ GuardianDelMar:
     PreventSunburn: true
   Drops:
   - exp 20-40 1
-  - trident 1 0.5
+  - trident 1 0.3
 CrepperElectrico:
   Type: Creeper
+  Health: 5
+  Damage: 30
+  Options:
+    Invisible: true
+    Glowing: true
+    FollowRange: 3
+  Drops:
+  - exp 50-80 1
+  
   
