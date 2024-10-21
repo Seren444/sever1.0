@@ -2422,3 +2422,122 @@
 [02:25:15] [Server thread/INFO]: Jobnael_13 left the game
 [02:25:15] [Server thread/INFO]: Jobnael_13 joined the game
 [02:25:15] [Server thread/INFO]: Jobnael_13[/[0:0:0:0:0:0:0:1%0]:41210] logged in with entity id 124653 at ([world]-1335.6284879626517, 110.0, 837.5256372948172)
+[02:26:26] [Async Chat Thread - #86/INFO]: [Not Secure] <u53dvr123> yair me robo
+[02:26:31] [Async Chat Thread - #86/INFO]: [Not Secure] <Yahir2024> no
+[02:26:32] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:26:36] [Async Chat Thread - #86/INFO]: [Not Secure] <u53dvr123> mi cosas
+[02:26:37] [Async Chat Thread - #87/INFO]: [Not Secure] <Yahir2024> fue jota yo lo vi
+[02:26:37] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:26:38] [Async Chat Thread - #87/INFO]: [Not Secure] <Jobnael_13> yahur ratero
+[02:26:39] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:26:41] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:26:43] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:26:50] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:26:50] [Async Chat Thread - #86/INFO]: [Not Secure] <Yahir2024> para que voy a querer tus cochinadas
+[02:26:57] [Async Chat Thread - #87/INFO]: [Not Secure] <Jobnael_13> raterooooooooooooo
+[02:26:59] [Async Chat Thread - #87/INFO]: [Not Secure] <nicolas_12> duerman
+[02:27:07] [Server thread/INFO]: Jobnael_13 was slain by u53dvr123
+[02:27:29] [Server thread/INFO]: Jobnael_13 lost connection: Timed out
+[02:27:29] [Server thread/INFO]: Jobnael_13 left the game
+[02:27:31] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
+[02:27:34] [Async Chat Thread - #87/INFO]: [Not Secure] <nicolas_12> duerman
+[02:27:39] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> hola
+[02:27:44] [Async Chat Thread - #88/INFO]: [Not Secure] <nicolas_12> duerme
+[02:27:45] [Async Chat Thread - #88/INFO]: [Not Secure] <nicolas_12> mrd
+[02:27:47] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> quien eres
+[02:27:48] [Async Chat Thread - #87/INFO]: [Not Secure] <Nosepepardo124> hola
+[02:27:50] [Async Chat Thread - #87/INFO]: [Not Secure] <Yahir2024> duerman
+[02:27:51] [Async Chat Thread - #88/INFO]: [Not Secure] <u53dvr123> ayudame
+[02:27:52] [Server thread/INFO]: Nosepepardo124 issued server command: /time set day
+[02:27:52] [Server thread/INFO]: [Nosepepardo124: Set the time to 1000]
+[02:27:55] [Async Chat Thread - #88/INFO]: [Not Secure] <u53dvr123> me robaron
+[02:28:01] [Async Chat Thread - #88/INFO]: [Not Secure] <Nosepepardo124> qn?
+[02:28:03] [User Authenticator #19/INFO]: UUID of player Jobnael_13 is b8e50712-cb62-357c-8682-85cdc7c42bde
+[02:28:03] [Server thread/INFO]: Jobnael_13 joined the game
+[02:28:03] [Server thread/INFO]: Jobnael_13[/[0:0:0:0:0:0:0:1%0]:48116] logged in with entity id 125372 at ([world]-1336.7585989987003, 112.0, 834.0242152241826)
+[02:28:04] [Async Chat Thread - #88/INFO]: [Not Secure] <u53dvr123> plis
+[02:28:08] [Async Chat Thread - #88/INFO]: [Not Secure] <u53dvr123> te lo pido
+[02:28:13] [Server thread/INFO]: Nosepepardo124 issued server command: /msg u53dvr123 q paso
+[02:28:23] [Async Chat Thread - #88/INFO]: [Not Secure] <u53dvr123> me chorearon
+[02:28:26] [Server thread/INFO]: Nosepepardo124 issued server command: /msg u53dvr123 habla por aca que julio me prohibio hablar XDDD
+[02:28:31] [Async Chat Thread - #88/INFO]: [Not Secure] <Jobnael_13> ese yahi
+[02:28:35] [Async Chat Thread - #88/INFO]: [Not Secure] <Jobnael_13> es un ratero
+[02:28:36] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m reload
+[02:28:41] [Server thread/INFO]: Nosepepardo124 issued server command: /mm reload
+[02:28:41] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[02:28:41] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[02:28:41] [Server thread/INFO]: [MythicMobs] Loading Items...
+[02:28:41] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[02:28:41] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[02:28:41] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[02:28:41] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[02:28:41] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[02:28:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[02:28:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[02:28:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[02:28:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mobs.
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[02:28:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[02:28:41] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[02:28:42] [Async Chat Thread - #88/INFO]: [Not Secure] <u53dvr123> como lo hago
+[02:28:59] [Async Chat Thread - #89/INFO]: [Not Secure] <u53dvr123> xd
+[02:29:04] [Async Chat Thread - #89/INFO]: [Not Secure] <Nosepepardo124> q te robo
+[02:29:06] [Async Chat Thread - #89/INFO]: [Not Secure] <u53dvr123> te susucrro
+[02:29:09] [Server thread/INFO]: u53dvr123 was blown up by Creeper
+[02:29:09] [Server thread/INFO]: Nosepepardo124 has made the advancement [Acquire Hardware]
+[02:29:15] [Async Chat Thread - #89/INFO]: [Not Secure] <Nosepepardo124> XD
+[02:29:23] [Server thread/INFO]: Nosepepardo124 issued server command: /tp u53dvr123 Nosepepardo124
+[02:29:23] [Server thread/INFO]: [Nosepepardo124: Teleported u53dvr123 to Nosepepardo124]
+[02:29:44] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> ayudame
+[02:29:50] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> no esta yauri
+[02:29:57] [Server thread/INFO]: Jobnael_13 was doomed to fall by Yahir2024
+[02:30:03] [Async Chat Thread - #89/INFO]: [Not Secure] <Nosepepardo124> A
+[02:30:22] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> dame algo pequeño
+[02:30:41] [Server thread/INFO]: Nosepepardo124 issued server command: /msg u53dvr123 a mi julio solo me puso a testear, te puedo ayudar solo dime lo que te robo
+[02:30:58] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> lapizlasulu x 56
+[02:31:03] [Async Chat Thread - #90/INFO]: [Not Secure] <u53dvr123> x 21 diamantes
+[02:31:09] [Async Chat Thread - #90/INFO]: [Not Secure] <u53dvr123> 54 hierro
+[02:31:10] [Async Chat Thread - #87/INFO]: [Not Secure] <Nosepepardo124> ok
+[02:31:13] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> 45 oro
+[02:31:23] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> 12 esconbros de netherite
+[02:31:31] [Async Chat Thread - #87/INFO]: [Not Secure] <Nosepepardo124> XD
+[02:31:44] [Async Chat Thread - #90/INFO]: [Not Secure] <u53dvr123> y por final 12 stacks de madera de cerezo
+[02:31:53] [Async Chat Thread - #90/INFO]: [Not Secure] <Nosepepardo124> q fue
+[02:32:02] [Async Chat Thread - #87/INFO]: [Not Secure] <Nosepepardo124> y comot te robo tanta madera?
+[02:32:06] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> tale 3 horas madera de cerezo
+[02:32:16] [Async Chat Thread - #91/INFO]: [Not Secure] <u53dvr123> no se la verdad
+[02:32:21] [Server thread/INFO]: Jobnael_13 was slain by u53dvr123
+[02:32:24] [Async Chat Thread - #90/INFO]: [Not Secure] <Nosepepardo124> como tellamas en dc?
+[02:32:39] [User Authenticator #20/INFO]: UUID of player Yahir2024 is f006d059-dc90-3ff9-8266-de5254f37aa4
+[02:32:40] [Server thread/INFO]: Yahir2024 lost connection: You logged in from another location
+[02:32:40] [Server thread/INFO]: Yahir2024 left the game
+[02:32:40] [Server thread/INFO]: Yahir2024 joined the game
+[02:32:40] [Server thread/INFO]: Yahir2024[/[0:0:0:0:0:0:0:1%0]:55142] logged in with entity id 126776 at ([world]-1238.3692504369305, 100.48310423156845, 785.3370693592428)
+[02:32:43] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> yair no te hare daño
+[02:32:49] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> no me hasgas nd
+[02:32:52] [Async Chat Thread - #87/INFO]: [Not Secure] <Yahir2024> ya
+[02:32:55] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> me llamo the new master
+[02:33:10] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> the_new_master
+[02:33:24] [Async Chat Thread - #87/INFO]: [Not Secure] <Nosepepardo124> no tas en el dc
+[02:33:33] [Async Chat Thread - #87/INFO]: [Not Secure] <u53dvr123> si estoy
+[02:33:36] [Async Chat Thread - #90/INFO]: [Not Secure] <u53dvr123> ahora entro
+[02:34:24] [Async Chat Thread - #87/INFO]: [Not Secure] <Nosepepardo124> pera
+[02:34:30] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:34:37] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn CrepperElectrico
+[02:34:53] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
+[02:35:00] [Server thread/INFO]: Nosepepardo124 issued server command: /mm m spawn GuardianDelMar
