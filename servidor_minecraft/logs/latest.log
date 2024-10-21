@@ -135,3 +135,117 @@
 [01:10:26] [Server thread/INFO]: nicolas_12 issued server command: /
 [01:10:44] [Async Chat Thread - #71/INFO]: [Not Secure] <nicolas_12> - 155 88 96
 [01:11:11] [Server thread/INFO]: nicolas_12 burned to death
+[01:11:24] [Async Chat Thread - #71/INFO]: [Not Secure] <u53dvr123> -198 18 159
+[01:12:03] [Server thread/INFO]: u53dvr123 tried to swim in lava
+[01:13:25] [Server thread/INFO]: u53dvr123 fell from a high place
+[01:13:54] [Server thread/INFO]: SoySeren issued server command: /tp u53dvr123
+[01:13:54] [Server thread/INFO]: [SoySeren: Teleported SoySeren to u53dvr123]
+[01:14:18] [Server thread/INFO]: u53dvr123 fell from a high place
+[01:15:05] [Server thread/INFO]: SoySeren issued server command: /tp n
+[01:15:08] [Server thread/INFO]: SoySeren issued server command: /tp nicolas_12
+[01:15:08] [Server thread/INFO]: [SoySeren: Teleported SoySeren to nicolas_12]
+[01:15:26] [Server thread/INFO]: SoySeren issued server command: /summon minecraft:slime
+[01:15:26] [Server thread/INFO]: [SoySeren: Summoned new Slime]
+[01:15:35] [Server thread/INFO]: u53dvr123 tried to swim in lava
+[01:15:56] [User Authenticator #14/INFO]: UUID of player Nosepepardo124 is c8404b58-e9f0-300f-805d-7c48c6e38e4b
+[01:15:56] [Server thread/INFO]: Nosepepardo124 joined the game
+[01:15:56] [Server thread/INFO]: Nosepepardo124[/[0:0:0:0:0:0:0:1%0]:53320] logged in with entity id 105030 at ([world]-1404.5, 99.0, 971.5)
+[01:16:00] [Server thread/INFO]: SoySeren issued server command: /tp nicolas_12
+[01:16:00] [Server thread/INFO]: [SoySeren: Teleported SoySeren to nicolas_12]
+[01:16:01] [Async Chat Thread - #73/INFO]: [Not Secure] <Nosepepardo124> hola
+[01:16:03] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124
+[01:16:03] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Nosepepardo124]
+[01:16:05] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:16:05] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:16:08] [Async Chat Thread - #73/INFO]: [Not Secure] <Nosepepardo124> aca pasan cp?
+[01:16:12] [Server thread/INFO]: Nosepepardo124 has made the advancement [Cover Me with Diamonds]
+[01:16:14] [Async Chat Thread - #73/INFO]: [Not Secure] <u53dvr123> quien eres
+[01:16:18] [Server thread/INFO]: SoySeren issued server command: /op Nosepepardo124
+[01:16:18] [Server thread/INFO]: [SoySeren: Made Nosepepardo124 a server operator]
+[01:16:24] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:16:24] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:16:35] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124 SoySeren
+[01:16:35] [Server thread/INFO]: [SoySeren: Teleported Nosepepardo124 to SoySeren]
+[01:16:38] [Server thread/INFO]: u53dvr123 was slain by Zombie
+[01:17:08] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode creative
+[01:17:08] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Creative Mode]
+[01:17:10] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124 SoySeren
+[01:17:10] [Server thread/INFO]: [SoySeren: Teleported Nosepepardo124 to SoySeren]
+[01:18:02] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:18:02] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:18:08] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:18:08] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:19:19] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:19:19] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:19:19] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:19:19] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:19:20] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:19:20] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:19:20] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:19:20] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:19:20] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:19:20] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:19:20] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:19:20] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:19:20] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:19:20] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:19:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:19:20] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:19:21] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:19:21] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:19:27] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:19:27] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:19:29] [Server thread/INFO]: SoySeren issued server command: /gamemode survival
+[01:19:29] [Server thread/INFO]: [SoySeren: Set own game mode to Survival Mode]
+[01:19:31] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:19:31] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:19:37] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:19:37] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:19:37] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:19:37] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:19:37] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:19:37] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:19:37] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:19:37] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:19:37] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:19:37] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:19:37] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:19:37] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:19:37] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:19:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:19:37] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:19:56] [Server thread/INFO]: SoySeren issued server command: /tp SoySeren Nosepepardo124
+[01:19:56] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Nosepepardo124]
+[01:20:26] [Server thread/INFO]: SoySeren issued server command: /effect give SoySeren minecraft:speed infinite 5
+[01:20:26] [Server thread/INFO]: [SoySeren: Applied effect Speed to SoySeren]
