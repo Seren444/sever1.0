@@ -249,3 +249,151 @@
 [01:19:56] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Nosepepardo124]
 [01:20:26] [Server thread/INFO]: SoySeren issued server command: /effect give SoySeren minecraft:speed infinite 5
 [01:20:26] [Server thread/INFO]: [SoySeren: Applied effect Speed to SoySeren]
+[01:22:16] [Server thread/INFO]: SoySeren issued server command: /gamemode spectator
+[01:22:16] [Server thread/INFO]: [SoySeren: Set own game mode to Spectator Mode]
+[01:22:19] [Server thread/INFO]: SoySeren issued server command: /tp nicolas_12
+[01:22:19] [Server thread/INFO]: [SoySeren: Teleported SoySeren to nicolas_12]
+[01:22:33] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124
+[01:22:33] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Nosepepardo124]
+[01:22:35] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:22:35] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:23:22] [Server thread/INFO]: SoySeren issued server command: /gamemode spectator
+[01:23:22] [Server thread/INFO]: [SoySeren: Set own game mode to Spectator Mode]
+[01:23:28] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode survival
+[01:23:28] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Survival Mode]
+[01:23:30] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:23:30] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:23:34] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode spectator
+[01:23:34] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Spectator Mode]
+[01:23:36] [Server thread/INFO]: SoySeren issued server command: /gamemode spectator
+[01:23:36] [Server thread/INFO]: [SoySeren: Set own game mode to Spectator Mode]
+[01:23:39] [Server thread/INFO]: SoySeren issued server command: /gamemode creative
+[01:23:39] [Server thread/INFO]: [SoySeren: Set own game mode to Creative Mode]
+[01:23:44] [Server thread/INFO]: Nosepepardo124 issued server command: /tp nicolas_12
+[01:23:44] [Server thread/INFO]: Nosepepardo124 has made the advancement [We Need to Go Deeper]
+[01:23:44] [Server thread/INFO]: [Nosepepardo124: Teleported Nosepepardo124 to nicolas_12]
+[01:23:50] [Server thread/INFO]: SoySeren issued server command: /effect give SoySeren minecraft:invisibility infinite 100
+[01:23:50] [Server thread/INFO]: [SoySeren: Applied effect Invisibility to SoySeren]
+[01:23:52] [Server thread/INFO]: SoySeren issued server command: /tp nicolas_12
+[01:23:52] [Server thread/INFO]: [SoySeren: Teleported SoySeren to nicolas_12]
+[01:24:27] [Server thread/INFO]: Nosepepardo124 issued server command: /gamemode creative
+[01:24:27] [Server thread/INFO]: [Nosepepardo124: Set own game mode to Creative Mode]
+[01:24:28] [Server thread/INFO]: SoySeren issued server command: /effect give Nosepepardo124 minecraft:invisibility infinite 100
+[01:24:28] [Server thread/INFO]: [SoySeren: Applied effect Invisibility to Nosepepardo124]
+[01:24:51] [Server thread/INFO]: SoySeren issued server command: /tp nicolas_12
+[01:24:51] [Server thread/INFO]: [SoySeren: Teleported SoySeren to nicolas_12]
+[01:25:04] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12
+[01:25:07] [Server thread/INFO]: SoySeren issued server command: /summon minecraft:magma_cube
+[01:25:07] [Server thread/INFO]: [SoySeren: Summoned new Magma Cube]
+[01:25:08] [Server thread/INFO]: u53dvr123 burned to death
+[01:25:17] [Server thread/INFO]: SoySeren issued server command: /summon minecraft:magma_cube
+[01:25:17] [Server thread/INFO]: [SoySeren: Summoned new Magma Cube]
+[01:25:21] [Server thread/INFO]: Nosepepardo124 issued server command: /tp nicolas_12
+[01:25:21] [Server thread/INFO]: [Nosepepardo124: Teleported Nosepepardo124 to nicolas_12]
+[01:25:27] [Server thread/INFO]: SoySeren issued server command: /summon minecraft:magma_cube
+[01:25:27] [Server thread/INFO]: [SoySeren: Summoned new Magma Cube]
+[01:25:30] [Server thread/INFO]: Nosepepardo124 issued server command: /tp nicolas_12
+[01:25:30] [Server thread/INFO]: [Nosepepardo124: Teleported Nosepepardo124 to nicolas_12]
+[01:25:35] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12
+[01:25:50] [Server thread/WARN]: u53dvr123 moved too quickly! 10.312613695748723,0.0,-8.953515410457271
+[01:25:57] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12
+[01:26:01] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12}
+[01:26:02] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12}
+[01:26:02] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12}
+[01:26:25] [Server thread/INFO]: nicolas_12 was doomed to fall by Nosepepardo124
+[01:26:31] [Server thread/INFO]: u53dvr123 fell from a high place
+[01:26:31] [Server thread/INFO]: SoySeren issued server command: /tp nicolas_12 SoySeren
+[01:26:31] [Server thread/INFO]: [SoySeren: Teleported nicolas_12 to SoySeren]
+[01:26:46] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124 SoySeren
+[01:26:46] [Server thread/INFO]: [SoySeren: Teleported Nosepepardo124 to SoySeren]
+[01:27:42] [Server thread/INFO]: u53dvr123 tried to swim in lava to escape Zombie
+[01:27:58] [Server thread/INFO]: SoySeren issued server command: /effect clear SoySeren
+[01:27:58] [Server thread/INFO]: [SoySeren: Removed every effect from SoySeren]
+[01:28:08] [Server thread/INFO]: SoySeren issued server command: /effect give SoySeren minecraft:invisibility infinite 100
+[01:28:08] [Server thread/INFO]: [SoySeren: Applied effect Invisibility to SoySeren]
+[01:29:37] [Server thread/INFO]: SoySeren issued server command: /tp u53dvr123
+[01:29:37] [Server thread/INFO]: [SoySeren: Teleported SoySeren to u53dvr123]
+[01:29:53] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124
+[01:29:53] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Nosepepardo124]
+[01:30:12] [User Authenticator #15/INFO]: UUID of player Jobnael_13 is b8e50712-cb62-357c-8682-85cdc7c42bde
+[01:30:12] [Server thread/INFO]: Jobnael_13 joined the game
+[01:30:12] [Server thread/INFO]: Jobnael_13[/[0:0:0:0:0:0:0:1%0]:56954] logged in with entity id 108672 at ([world]-1405.5, 100.0, 971.5)
+[01:30:21] [Server thread/INFO]: SoySeren issued server command: /tp Jobnael_13
+[01:30:21] [Server thread/INFO]: [SoySeren: Teleported SoySeren to Jobnael_13]
+[01:30:35] [Server thread/INFO]: Nosepepardo124 issued server command: /tp Jobnael_13
+[01:30:35] [Server thread/INFO]: [Nosepepardo124: Teleported Nosepepardo124 to Jobnael_13]
+[01:30:47] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12}
+[01:31:04] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:31:04] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:31:04] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:31:04] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:31:05] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:31:05] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:31:05] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:31:05] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:31:05] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:31:05] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:31:05] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:31:05] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:31:05] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:31:05] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:31:05] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:31:08] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12}
+[01:31:09] [Server thread/INFO]: SoySeren issued server command: /tp Nosepepardo124 SoySeren
+[01:31:09] [Server thread/INFO]: [SoySeren: Teleported Nosepepardo124 to SoySeren]
+[01:31:13] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12}
+[01:31:34] [Server thread/INFO]: Jobnael_13 was doomed to fall by nicolas_12
+[01:31:38] [Server thread/INFO]: Nosepepardo124 issued server command: /spawnmythicmob ZombieMutante nicolas_12}
+[01:31:40] [Server thread/INFO]: nicolas_12 was slain by Zombie
+[01:31:47] [Server thread/INFO]: SoySeren issued server command: /tp nicolas_12 SoySeren
+[01:31:47] [Server thread/INFO]: [SoySeren: Teleported nicolas_12 to SoySeren]
+[01:31:58] [Server thread/INFO]: SoySeren issued server command: /mm reload
+[01:31:58] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[01:31:58] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[01:31:58] [Server thread/INFO]: [MythicMobs] Loading Items...
+[01:31:58] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[01:31:58] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[01:31:58] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[01:31:58] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[01:31:58] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[01:31:58] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:31:58] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:31:58] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic summon
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Skill: SummonSkeletons | File: /workspaces/sever1.0/servidor_minecraft/plugins/MythicMobs/skills/ExampleSkills.yml
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Error Message: The 'type' attribute must be a valid MythicMob or MythicEntity type.
+[01:31:58] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: summon{mob=SkeletalMinion;amount=2;noise=5}
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 mobs.
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 vanilla mob overrides.
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 drop tables.
+[01:31:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[01:31:58] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[01:31:59] [Server thread/INFO]: nicolas_12 was slain by Iron Golem
+[01:32:03] [Server thread/INFO]: Jobnael_13 has made the advancement [Stone Age]
+[01:32:03] [Server thread/INFO]: Jobnael_13 has made the advancement [Isn't It Iron Pick]
