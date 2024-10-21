@@ -1,0 +1,7 @@
+
+ZombieMutante:
+  Action: REPLACE
+  Type: ZombieMutante
+  Chance: 0.1
+  Priority: 10
+

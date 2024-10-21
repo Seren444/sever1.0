@@ -1,0 +1,11 @@
+
+ZombieMutante:
+  Type: Zombie
+  Health: 20
+  Damage: 3
+  Equipment:
+  - IRON_HELMET HEAD
+  Options:
+    MovementSpeed: 0.3
+  Drops:
+  - exp 20-40 1

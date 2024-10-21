@@ -1,0 +1,15 @@
+
+StaticallyChargedSheep:
+  Type: SHEEP
+  Display: '&aStatically Charged Sheep'
+  Health: 20
+  Damage: 2
+  Options:
+    MovementSpeed: 0.3
+  DamageModifiers:
+  - LIGHTNING 0
+  - FIRE 0.5
+  Skills:
+  - lightning @LivingInRadius{r=10} ~onTimer:100  
+
+
