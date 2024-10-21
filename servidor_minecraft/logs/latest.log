@@ -1694,3 +1694,6 @@
 [01:41:51] [Server thread/INFO]: u53dvr123 was slain by Zombie
 [01:42:08] [Server thread/INFO]: nicolas_12 was slain by Jobnael_13
 [01:42:10] [Server thread/INFO]: Jobnael_13 has made the advancement [Acquire Hardware]
+[01:42:55] [Server thread/INFO]: Named entity EntityCod['ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID'/111347, uuid='642d0008-70aa-40bc-a859-71072b1eca92', l='ServerLevel[world]', x=-1226.50, y=80.00, z=1124.50, cpos=[-77, 70], tl=613, v=true] died: ERROR: MOB TYPE FOR 'ZombieMutante' IS INVALID drowned
+[01:43:02] [Server thread/INFO]: Nosepepardo124 issued server command: /tp Nosepepardo124 nicolas_12
+[01:43:02] [Server thread/INFO]: [Nosepepardo124: Teleported Nosepepardo124 to nicolas_12]
